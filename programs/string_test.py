@@ -29,7 +29,7 @@ print("swapcase ",str5.swapcase())
 b = "Hello, World!"
 print(b[2:])
 
-#---> modify strings
+#---> modify stringssx
 # upper case
 a = "Hello, World!"
 print(a.upper())
